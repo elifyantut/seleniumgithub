@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\bin\Debug\netcoreapp3.1\seleniumInstagramFollowers.exe
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\bin\Debug\netcoreapp3.1\seleniumInstagramFollowers.deps.json
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\bin\Debug\netcoreapp3.1\seleniumInstagramFollowers.runtimeconfig.json
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\bin\Debug\netcoreapp3.1\seleniumInstagramFollowers.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\bin\Debug\netcoreapp3.1\seleniumInstagramFollowers.dll
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\bin\Debug\netcoreapp3.1\seleniumInstagramFollowers.pdb
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\obj\Debug\netcoreapp3.1\seleniumInstagramFollowers.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\obj\Debug\netcoreapp3.1\seleniumInstagramFollowers.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\obj\Debug\netcoreapp3.1\seleniumInstagramFollowers.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\obj\Debug\netcoreapp3.1\seleniumInstagramFollowers.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\obj\Debug\netcoreapp3.1\seleniumInstagramFollowers.csproj.CopyComplete
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\obj\Debug\netcoreapp3.1\seleniumInstagramFollowers.dll
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\obj\Debug\netcoreapp3.1\seleniumInstagramFollowers.pdb
+C:\Users\ASUS\source\repos\seleniumInstagramFollowers\seleniumInstagramFollowers\obj\Debug\netcoreapp3.1\seleniumInstagramFollowers.genruntimeconfig.cache

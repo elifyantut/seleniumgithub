@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aZUmwHkNgff6efxJH0b2gkMSxH7VXdSqnO5pOGV6ZyPgDd9rh8d3JV2Lfk63PI53WlzBUjrqxYnr11LrvcPGLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\seleniumInstagramFollowers\\seleniumInstagramFollowers\\seleniumInstagramFollowers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\selenium.webdriver.chromedriver\\96.0.4664.4500\\selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
