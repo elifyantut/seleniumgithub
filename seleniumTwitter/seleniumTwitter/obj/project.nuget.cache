@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rsTqTtHVp3dLaV155IVydZQkveyBc8Iw40H2RjIezk8k/EUao5aAp0YbqsO2w7mTVx1M/tt93Za2tQEnH1kS2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\seleniumTwitter\\seleniumTwitter\\seleniumTwitter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\selenium.webdriver.chromedriver\\96.0.4664.4500\\selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
