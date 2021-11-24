@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\bin\Debug\netcoreapp3.1\githubRepos.exe
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\bin\Debug\netcoreapp3.1\githubRepos.deps.json
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\bin\Debug\netcoreapp3.1\githubRepos.runtimeconfig.json
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\bin\Debug\netcoreapp3.1\githubRepos.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\bin\Debug\netcoreapp3.1\githubRepos.dll
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\bin\Debug\netcoreapp3.1\githubRepos.pdb
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\obj\Debug\netcoreapp3.1\githubRepos.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\obj\Debug\netcoreapp3.1\githubRepos.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\obj\Debug\netcoreapp3.1\githubRepos.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\obj\Debug\netcoreapp3.1\githubRepos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\obj\Debug\netcoreapp3.1\githubRepos.csproj.CopyComplete
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\obj\Debug\netcoreapp3.1\githubRepos.dll
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\obj\Debug\netcoreapp3.1\githubRepos.pdb
+C:\Users\ASUS\source\repos\githubRepos\githubRepos\obj\Debug\netcoreapp3.1\githubRepos.genruntimeconfig.cache
