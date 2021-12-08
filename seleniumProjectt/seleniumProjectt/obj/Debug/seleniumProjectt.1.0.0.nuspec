@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>seleniumProjectt</id>
+    <version>1.0.0</version>
+    <authors>seleniumProjectt</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Selenium.WebDriver" version="4.1.0" exclude="Build,Analyzers" />
+        <dependency id="Selenium.WebDriver.ChromeDriver" version="96.0.4664.4500" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ASUS\source\repos\seleniumProjectt\seleniumProjectt\bin\Debug\netcoreapp3.1\seleniumProjectt.runtimeconfig.json" target="lib\netcoreapp3.1\seleniumProjectt.runtimeconfig.json" />
+    <file src="C:\Users\ASUS\source\repos\seleniumProjectt\seleniumProjectt\bin\Debug\netcoreapp3.1\seleniumProjectt.dll" target="lib\netcoreapp3.1\seleniumProjectt.dll" />
+  </files>
+</package>
