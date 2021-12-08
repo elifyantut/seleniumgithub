@@ -52,6 +52,11 @@ namespace seleniumProjectt
 
            };
 
+            foreach (var item in Sellers)
+            {
+                InsertSellers(item);
+            }
+
 
 
 
@@ -84,7 +89,7 @@ namespace seleniumProjectt
 
         static void GetMySqlConnection()
         {
-            string connectionString = @"server=localhost;port=3306;database=selenium;user=root;";
+            string connectionString = @"server=localhost;port=3306;database=selenium2;user=root;";
 
             using (var connection = new MySqlConnection(connectionString))
             {
@@ -106,9 +111,42 @@ namespace seleniumProjectt
 
         }
 
+
+        static void InsertSellers(string Name)
+        {
+            string connectionString = @"server=localhost;port=3306;database=selenium2;user=root;";
+
+
+            using (var connection = new MySqlConnection(connectionString))
+            {
+                try
+                {
+                    connection.Open();
+                    string Sql = "insert into sellers (sellername) " +
+                        "Values (@sellername)";
+                    var command = new MySqlCommand(Sql, connection);
+                    command.Parameters.AddWithValue("sellername", Name);
+
+                    int result = command.ExecuteNonQuery();
+                    Console.WriteLine($"{result} adet ürün eklendi.");
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("ürün eklerken bir hata oluştu.");
+                    Console.WriteLine(e.Message);
+                }
+                finally
+                {
+                    connection.Close();
+                }
+            }
+        }
+
+
+
         static void InsertProduct(IWebElement product)
         {
-            string connectionString = @"server=localhost;port=3306;database=selenium;user=root;";
+            string connectionString = @"server=localhost;port=3306;database=selenium2;user=root;";
             var listingId = product.GetAttribute("data-listing-id");
 
             var listingTag = product.FindElement(By.TagName("a"));
@@ -140,10 +178,15 @@ namespace seleniumProjectt
                 }
             }
 
-   
+
+
 
             
 
+
+
+
+
+            }
         }
-    }
 }
